@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/restaurant.jpg",
+        "source": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/drawable-ldpi/restaurant.jpg"
+    }
+]

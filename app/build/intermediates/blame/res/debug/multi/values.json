@@ -1,0 +1,713 @@
+[
+    {
+        "outputFile": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endLine": 31,
+                        "endColumn": 19,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 44,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 39,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 39,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 39,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 39,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 51,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 51,
+                        "endOffset": 64
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 32,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 40,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 57,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 57,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 38,
+                    "endOffset": 523
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 38,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 528,
+                    "endColumn": 38,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 38,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 50,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 50,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 44,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1251,
+                        "endColumn": 44,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 55,
+                    "endOffset": 714
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1194,
+                        "endColumn": 55,
+                        "endOffset": 1245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 719,
+                    "endColumn": 65,
+                    "endOffset": 780
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 65,
+                        "endOffset": 758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 785,
+                    "endColumn": 48,
+                    "endOffset": 829
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 48,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 834,
+                    "endColumn": 41,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 41,
+                        "endOffset": 857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 41,
+                    "endOffset": 913
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 41,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 918,
+                    "endColumn": 45,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 45,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endColumn": 51,
+                    "endOffset": 1011
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 51,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1016,
+                    "endColumn": 44,
+                    "endOffset": 1056
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 537,
+                        "endColumn": 44,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1061,
+                    "endColumn": 48,
+                    "endOffset": 1105
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 48,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1110,
+                    "endColumn": 43,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 43,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endColumn": 53,
+                    "endOffset": 1203
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 53,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1208,
+                    "endColumn": 72,
+                    "endOffset": 1276
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 70,
+                        "endColumn": 72,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1281,
+                    "endColumn": 46,
+                    "endOffset": 1323
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 46,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1328,
+                    "endColumn": 52,
+                    "endOffset": 1376
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 585,
+                        "endColumn": 52,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1381,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1505
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1510,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1710
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1715,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 1825
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1830,
+                    "endColumn": 53,
+                    "endOffset": 1879
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 604,
+                        "endColumn": 54,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1884,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 1972
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1120,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1977,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 2063
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2068,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2264
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 790,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2269,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 2377
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2382,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 2508
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1222,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2513,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 2656
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1358,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 1503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2661,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 2796
+                },
+                "from": {
+                    "file": "/Users/matthewmagee/Downloads/android/ex_solutions/ch07_ex4_TipCalculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1511,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 1648
+                    }
+                }
+            }
+        ]
+    }
+]
